@@ -1,2 +1,2 @@
 # Goal
-It's time to consume the free online books which are waiting to be read for long time. Especially, the ones which requires to play around a bit with practical exercises. I read lots of great reviews about Allen B. Downey's *Think* series, so I started with **Think Stats** which is an area I always feel frightened thanks to super traditional statistics courses during my education:) In this repo I'll try to keep my notes, exercises, etc in one place for any further knowledge refreshment and need.
+It's time to consume the free online books which are waiting to be read for long time. Especially, the ones which requires to play around a bit with practical exercises. So this repo will contain my notes from the online free data science books.
